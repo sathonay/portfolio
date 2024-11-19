@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "image": "images/core.webp",
+      "title": "Minecraft Plugin",
+      "description": "Un plugin Minecraft fais en Java complet permettant de bannir, donné un rôle, crée des rôles avec plusieurs méthode de gestion des données.",
+      "link": "https://github.com/Akyto-Network/core/tree/master"
+    },
+    {
+      "image": "images/omf.webp",
+      "title": "OhMyFood",
+      "description": "Un projet construit à base de SASS, qui démontre de très bonne fonctionnalité d'animation CSS.",
+      "link": "https://kezukdev.github.io/OMF-opc-4/"
+    },
+    {
+      "image": "images/nina-carducci.webp",
+      "title": "Portfolio - NinaCarducci",
+      "description": "Une optimisation des performances, du SEO et de l'accessibilité.",
+      "link": "https://kezuk-dev.github.io/NinaCarducci-OPC-8/"
+    }
+  ],
+  "technologies": [
+    {
+      "name": "Java",
+      "image": "images/java.webp"
+    },
+    {
+      "name": "JavaScript",
+      "image": "images/javascript.webp"
+    },
+    {
+      "name": "MySQL",
+      "image": "images/mysql.webp"
+    },
+    {
+      "name": "Redis",
+      "image": "images/redis.webp"
+    },
+    {
+      "name": "HTML 5",
+      "image": "images/html.webp"
+    },
+    {
+      "name": "CSS 3",
+      "image": "images/css.webp"
+    },
+    {
+      "name": "React",
+      "image": "images/react.webp"
+    }
+  ]
+}
