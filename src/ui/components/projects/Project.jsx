@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 const Project = ({ project }) => {
   return (
     <div className="project-card">
-      <img src={project.image} alt={project.title} className="project-image" />
+      <img src={project.image} loading='lazy' alt={project.title} className="project-image" />
       <div className="project-details">
         <h2 className="project-title">{project.title}</h2>
         <p className="project-description">{project.description}</p>
