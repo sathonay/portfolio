@@ -18,8 +18,8 @@ function Main() {
         <img src={profileImage} alt="Profile" className="profile-image" />
         <div className="intro-text">
           <h2>Je me présente</h2>
-          <p>Je suis Théo Duprez, j'ai 21 ans.
-            <br/>Je suis actuellement situé en Auvergne-Rhône-Alpes.
+          <p>Théo Duprez, j'ai 21 ans.
+            <br/>Je suis actuellement en Auvergne-Rhône-Alpes.
             <br/>Très grand passionné d'informatique.</p>
         </div>
       </section>
@@ -50,8 +50,15 @@ function Main() {
       </section>
 
       <section className="intro-section right-align">
-        <h2>Formations & Compétences:</h2>
-        <p>Actuellement en train de passer un diplôme d'intégrateur web...</p>
+        <h2>Formations:</h2>
+        <p>
+              Actuellement en train de passer un diplôme d'intégrateur web.
+          <br/>Début d'étude dans un Bac Professionnelle Système Numérique,
+          <br/>J'ai arrêter car cela ne correspondait pas à mes attentes.
+          <br/>
+          <br/>Je possède de nombreuses Certifications Open Classrooms dans:
+          <br/>Java, React, JavaScript, SASS...
+        </p>
       </section>
 
       <ContactForm/>
