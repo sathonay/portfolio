@@ -24,7 +24,7 @@ function Main() {
         </div>
       </section>
 
-      <h2 className="projects-title">Projets:</h2>
+      <h2 className="projects-title" id='projects'>Projets:</h2>
       <section className={`projects-section ${isDarkMode ? 'dark-mode' : ''}`}>
           {data && data.projects && data.projects.length > 0 ? (
             data.projects.map((project, index) => (
