@@ -37,6 +37,14 @@
       "image": "images/redis.webp"
     },
     {
+      "name": "MariaDB",
+      "image": "images/mariadb.webp"
+    },
+    {
+      "name": "YAML",
+      "image": "images/yaml.webp"
+    },
+    {
       "name": "HTML 5",
       "image": "images/html.webp"
     },

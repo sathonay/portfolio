@@ -1,7 +1,7 @@
 import React from 'react';
 import Technology from '../technology/Technology.jsx';
 import data from '../../../data/data.json';
-import './technologyCarousel-min.css';
+import './technologyCarousel.css';
 
 const TechnologyCarousel = () => {
   return (
