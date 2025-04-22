@@ -49,7 +49,7 @@ function Main() {
         <TechnologyCarousel />
       </section>
 
-      <section className="intro-section right-align">
+      <section className="intro-section align-center">
         <h2>Formations:</h2>
         <p>
               Actuellement en train de passer un diplôme d'intégrateur web.
